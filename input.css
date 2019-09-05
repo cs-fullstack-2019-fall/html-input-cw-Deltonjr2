@@ -1,0 +1,12 @@
+body {
+
+    position: center;
+    background-position: center;
+    
+}
+
+form {
+    border:solid 3px blueviolet;
+    background-color: blueviolet;
+    position: center;
+}
